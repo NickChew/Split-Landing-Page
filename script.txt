@@ -1,0 +1,4 @@
+The code starts by creating a container element.
+Then, it creates two elements: left and right.
+The code then attaches event listeners to the left and right elements so that when the mouse enters or leaves them, they will change their class names from "hover-left" or "hover-right".
+The code will add the class "hover-left" to the container element when a mouse enters it and remove it when a mouse leaves.

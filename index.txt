@@ -1,0 +1,10 @@
+The code starts with the <html> tag.
+It then has a <head> tag that includes the meta tags, which are used to define the page's character encoding and viewport settings.
+The next section is an empty div called "container".
+This container will be split into two sections: one on the left side of the screen and one on the right side of the screen.
+The first thing in this code is a link to style.css, which contains all of our CSS styles for this website.
+Next comes a script tag that points to script.js, which contains all of our JavaScript code for this website (including jQuery).
+After these tags come some HTML markup that defines what goes where on each half of our landing page: <div class="split left"> <h1>Playstation 5</h1> <a href="#" class="btn">Buy Now</a> </div><br /> <div class="split right"> <h1>XBox Series X</h1> <a href="#" class="btn">Buy Now</a></div><br />
+The code is a split landing page.
+The left side of the screen has an H1 tag with text "Playstation 5" and a button that says "Buy Now".
+On the right side, there is an H1 tag with text "XBox Series X" and a button that says "Buy Now".
